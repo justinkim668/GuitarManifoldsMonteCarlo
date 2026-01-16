@@ -17,3 +17,4 @@ This repository utilizes a geometric lifting logic that maps guitar chords to un
 # Key Findings
 1. Area Quantization: The simulation empirically identifies the "parity-locked" no-go zones where half-integer areas are mathematically impossible for 6-string chords.
 2. The Ground State: Verification that at maximum connectivity $|E|=5$, the manifold forces a geometric area of $1$ regardless of vertical translation.
+![Global Fretboard Census](heatmap_area.png)
