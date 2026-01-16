@@ -12,4 +12,8 @@ This repository utilizes a geometric lifting logic that maps guitar chords to un
 # Core Features
 1. Coordinate Lifting: Implementation of the circular difference logic to unroll the cylindrical pitch class space of the guitar into linear space.
 2. Global Fretboard Census: A Monte Carlo simulation script that executes $2.4 \times 10^7$ iterations to map the state space of 3, 4, 5, and 6-string chords.
-3. Metric Independence: We plot the results of this Monte Carlo simulation to visualize the non-bijective relationship between local connectivity (edges) and global compactness (area)
+3. Metric Independence: We plot the results of this Monte Carlo simulation to visualize the non-bijective relationship between local connectivity (edges) and global compactness (area).
+
+# Key Findings
+1. Area Quantization: The simulation empirically identifies the "parity-locked" no-go zones where half-integer areas are mathematically impossible for 6-string chords.
+2. The Ground State: Verification that at maximum connectivity $|E|=5$, the manifold forces a geometric area of $1$ regardless of vertical translation.
