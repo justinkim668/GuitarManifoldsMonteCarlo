@@ -8,3 +8,8 @@ Traditional unweighted graphs cannot distinguish between functionally different 
 
 # Our Solution
 This repository utilizes a geometric lifting logic that maps guitar chords to universal Euclidean cover $\mathbb{R}^2$ to calculate their Harmonic-Voicing Area $A(H_C)$.
+
+# Core Features
+1. Coordinate Lifting: Implementation of the circular difference logic to unroll the cylindrical pitch class space of the guitar into linear space.
+2. Global Fretboard Census: A Monte Carlo simulation script that executes $2.4 \times 10^7$ iterations to map the state space of 3, 4, 5, and 6-string chords.
+3. Metric Independence: We plot the results of this Monte Carlo simulation to visualize the non-bijective relationship between local connectivity (edges) and global compactness (area)
