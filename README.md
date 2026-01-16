@@ -18,3 +18,8 @@ This repository utilizes a geometric lifting logic that maps guitar chords to un
 1. Area Quantization: The simulation empirically identifies the "parity-locked" no-go zones where half-integer areas are mathematically impossible for 6-string chords.
 2. The Ground State: Verification that at maximum connectivity $|E|=5$, the manifold forces a geometric area of $1$ regardless of vertical translation.
 ![Global Fretboard Census](heatmap_area.png)
+
+# Usage and Reproducibility
+1. Clone the repository and navigate to the root directory.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the script: `mcm.py`
