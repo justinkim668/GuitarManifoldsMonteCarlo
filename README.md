@@ -7,4 +7,4 @@ By mapping chordal voicings into this Euclidean plane, we derive a unique geomet
 Traditional unweighted graphs cannot distinguish between functionally different chord voicings because the collapse into the same "linear forest."
 
 # Our Solution
-This repository utilizes a geometric lifting logic that maps guitar chords to universal Euclidean cover $\mathbb{R}^2$ to calculate their Harmonic-Voicing Area ($A(H_C)$).
+This repository utilizes a geometric lifting logic that maps guitar chords to universal Euclidean cover $\mathbb{R}^2$ to calculate their Harmonic-Voicing Area $A(H_C)$.
