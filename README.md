@@ -25,4 +25,4 @@ This repository utilizes a geometric lifting logic that maps guitar chords to un
 ![Global Fretboard Census](heatmap_area.png)
 
 # Cite This Repository
-Citation: Kim, J.T., "METRIC INDEPENDENCE IN DISCRETE CYLINDRICAL MANIFOLDS"
+Citation: Kim, J.T., "METRIC INDEPENDENCE IN DISCRETE CYLINDRICAL MANIFOLDS," Journal of Mathematics and Music (Submitted for Peer Review 2026).
