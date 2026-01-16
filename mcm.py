@@ -84,4 +84,5 @@ for idx, n in enumerate(cardinalities):
 plt.subplots_adjust(hspace=0.4, wspace=0.2, top=0.9) 
 
 plt.suptitle(f"Global Fretboard Census: State Space Expansion ($N_{{total}} = 2.4 \\times 10^7$)", fontsize=18, y=1.03)
+plt.savefig("global_fretboard_census.png")
 plt.show()
